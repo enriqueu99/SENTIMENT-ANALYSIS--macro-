@@ -1,0 +1,30 @@
+Abstract:
+I.
+NEWS SENTIMENT CRITERION
+"Twitter has been responsible for some major stock market news in the recent past,
+from rogue CEOs damaging their company to very active world leaders asking for
+brand boycotts, but despite its impact Twitter has still not been as impactful on markets as traditional news sources. In this paper we examine whether daily news sentiment of several companies and Twitter sentiment from their CEOs have an impact on
+their market performance and whether traditional news sources and Twitter activity of
+heads of government impact the benchmark indexes of major world economies over
+a period spanning the outbreak of the SAR-COV-2 pandemic. Our results indicate that
+there is very limited correlation between Twitter sentiment and price movements and
+that this does not change much when returns are taken relative to the market or when
+the market is calm or turbulent. There is almost no correlation under any circumstances
+between non-fnancial news sources and price movements, however there is some
+correlation between fnancial news sentiment and stock price movements. We also
+fnd this correlation gets stronger when returns are taken relative to the market. There
+are fewer companies correlated in both turbulent and calm economic times. There
+is no clear pattern to the direction and strength of the correlation, with some being
+strongly negatively correlated and others being strongly positively correlated, but in
+general the size of the correlation tends to indicate that price movement is driving sentiment, except in the turbulent economic times of the SARS-COV-2 pandemic in 2020."
+
+Takeaway:
+Strictly including "financial" news.
+SOURCES: https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00591-6
+
+
+
+II.
+VOLUME CRITERION
+
+Volume can be considered 
