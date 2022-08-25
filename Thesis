@@ -27,4 +27,8 @@ SOURCES: https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-0
 II.
 VOLUME CRITERION
 
-Volume can be considered 
+Increases in volume coupled with a given stocks  directional movement can be infered to provide "momentum" or added duration for the given directional change. By considering volume-metrics in the analysis of directional stock movements, we can potentially deduce time estimations for directional pattern continuation.
+In essence: Volume can be considered , and then utilized to increase the weight of a particular directional change.
+
+Additional Considerations:
+Their may be time delays between when buyers place an order and when that order actually gets fulfilled. If information can be retrieved via some API channel (or another more complex pathway) prior to its incorporation on the given trading platform, that information coupled with volume metrics can create an environment of relative predictive certainty for a brief window of time.
